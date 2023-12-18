@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dhirender Pratap Singh 
+- 👋 Hi, I’m Dhirender Pratap Singh .
 - 👀 I’m interested in Web development, ML and AI.
-- 🌱 I’m currently learning Web development and DSA.
+- 🌱 I’m learning Web development and DSA.
 - 📫 How to reach me www.linkedin.com/in/dhirender-pratap-singh-d1705
 - 📑 Student, pursuing Bachelor's in Computer science.
 <!---
