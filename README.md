@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhirender Pratap Singh</h1>
-<h3 align="center">A passionate MERN full stack developer from India. I am in my final year of a bachelor's degree in computer science.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=division17&label=Profile%20views&color=0e75b6&style=flat" alt="division17" /> </p>
+<h3 align="center">A passionate MERN full stack developer from India. I am a recent graduate(B.Tech CS-IT).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=division17" alt="division17" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Parking System](https://github.com/Division17/Smart-Parking-System)
-- 🌱 I’m currently learning **Java Development and cloud computing**
+- 🔭 I’m currently deeping my concepts of MERN stack and Java.
+- 🌱 I’m exploring cloud computing and DevOps related tools.**
 - 💬 Ask me about **Both frontend technologies and Backend technologies.**
-- 📫 How to reach me **saurav171412@gmail.com**
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/dhirender-pratap-singh-d1705/overlay/1734889124896/single-media-viewer?type=DOCUMENT&profileId=ACoAAC_sJbkBhLCDz1vkgP8yJELEoiOMcG2i8Mw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgpfqlC6FSISkZgKsPH5qDw%3D%3D)
+- 📫 Rech  me **saurav171412@gmail.com**.
+- 📄 Know about my experiences [here]([https://www.linkedin.com/in/dhirender-pratap-singh-d1705/overlay/1734889124896/single-media-viewer?type=DOCUMENT&profileId=ACoAAC_sJbkBhLCDz1vkgP8yJELEoiOMcG2i8Mw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgpfqlC6FSISkZgKsPH5qDw%3D%3D](https://www.linkedin.com/in/sdhirender/))
 - ⚡ Fun fact **I am looking forward to seeing a real humanoid robot in the near future.**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,9 +37,3 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=division17&show_icons=true&locale=en&layout=compact" alt="division17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=division17&show_icons=true&locale=en" alt="division17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Division17&" alt="Division17" /></p>
