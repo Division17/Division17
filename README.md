@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhirender Pratap Singh</h1>
-<h3 align="center">A passionate MERN full stack developer from India. I am a recent graduate(B.Tech CS-IT).</h3>
+<h3 align="center">A passionate MERN stack developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=division17" alt="division17" /></a> </p>
 
